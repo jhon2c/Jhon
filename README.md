@@ -9,13 +9,4 @@
 </div>
 <a href="https://github.com/jhon2c">
   <div align="center"><img height="300em" src="https://i.ibb.co/vsV9HsF/Png-Item-1349655.png" /></div>
-  <div align="left">
-    <br/><br/>
-<span>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhon2c&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true"/>
-  </span>
-  <span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhon2c&layout=compact&theme=midnight-purple" />
-</span>
-</div>
 </a>
